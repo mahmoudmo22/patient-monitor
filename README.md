@@ -123,8 +123,8 @@ The application employs various signal processing techniques to detect different
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/momowalid">
-        <img src="https://github.com/momowalid.png" width="100px;" alt="Mahmoud Bahaa"/><br />
+      <a href="https://github.com/MahmoudBL83">
+        <img src="https://github.com/MahmoudBL83.png" width="100px;" alt="Mahmoud Bahaa"/><br />
         <sub><b>Mahmoud Bahaa</b></sub>
       </a>
     </td>
